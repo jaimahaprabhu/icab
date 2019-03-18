@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "352324254254",
+    "firebase_url": "https://icab-b90a6.firebaseio.com",
+    "project_id": "icab-b90a6",
+    "storage_bucket": "icab-b90a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352324254254:android:edcc3988571a0293",
+        "android_client_info": {
+          "package_name": "c.technoants.icab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352324254254-qf0j48dmj42s4lq6rfrpas9jj6aiu7o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9Hp2OvhQ7IxUqnplHjw9oRG7efL8C2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
